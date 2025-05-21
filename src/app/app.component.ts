@@ -8,4 +8,10 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'MyGirlyApp';
   selection = { value: '' };
+
+constructor(){
+  console.log('Funciones de prueba');
+  console.warn('Advertencia');
+  console.log("Prueba de conflictos")
+}
 }
