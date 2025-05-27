@@ -1,0 +1,22 @@
+.register .login-header h1 {
+  font-size: 2rem;
+}
+
+.register .login-footer {
+  justify-content: center;
+}
+
+.register .login-footer a {
+  color: white;
+  font-weight: 600;
+}
+
+
+.register .login-btn {
+  background: linear-gradient(90deg, #6e8efb, #a777e3);
+  color: white;
+}
+
+.register .login-btn svg {
+  stroke: white;
+}
